@@ -1,0 +1,9 @@
+Building Cryptoescudo
+
+See doc/readme-qt.rst for instructions on building Cryptoescudo-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cryptoescudo.
+
+See doc/build-*.txt for instructions on building cryptoescudod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cryptoescudo.
